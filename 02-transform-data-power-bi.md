@@ -19,11 +19,6 @@ In this lab, you learn how to:
 
 ## Get started
 
-To complete this exercise, first open a web browser and enter the following URL to download the zip folder:
-
-`https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/02-transform-data-power-bi/02-transform-data.zip`
-
-Extract the folder to the **C:\Users\Student\Downloads\02-transform-data** folder.
 
 Open the **02-Starter-Sales Analysis.pbix** file.
 
